@@ -1,0 +1,5 @@
+require 'fv/array'
+require 'fv/dispatcher'
+require 'fv/basic_object'
+require 'fv/scene'
+require 'fv/version'

@@ -1,0 +1,793 @@
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+ViaTest: test_rendering_from_via_to_erb
+---------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+ViaTest: test_rendering_from_via_to_erb
+---------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+---------------------------------------
+ViaTest: test_rendering_from_via_to_erb
+---------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 17:55:33 +0200
+Processing by HomeController#index as */*
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms | Allocations: 4283)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 17:58:48 +0200
+Processing by HomeController#index as */*
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms | Allocations: 4283)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 17:59:01 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms | Allocations: 4216)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:00:12 +0200
+Processing by HomeController#index as HTML
+Completed 406 Not Acceptable in 88ms (ActiveRecord: 0.0ms | Allocations: 2482)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:01:05 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms | Allocations: 4510)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:01:37 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms | Allocations: 4096)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:02:40 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms | Allocations: 4510)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:06:43 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms | Allocations: 4510)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:09:14 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms | Allocations: 4511)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:12:35 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 2163)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:14:04 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 2163)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:14:21 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 2163)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:14:32 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 2163)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:21:47 +0200
+Processing by HomeController#index as HTML
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 2163)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 18:22:12 +0200
+Processing by HomeController#index as HTML
+Completed 406 Not Acceptable in 8ms (ActiveRecord: 0.0ms | Allocations: 2611)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:23:32 +0200
+Processing by HomeController#index as VIA
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 0.0ms | Allocations: 4323)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:24:00 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 41.9ms | Allocations: 337)
+Sent data index.via (14.6ms)
+Completed 500 Internal Server Error in 69ms (Views: 49.7ms | ActiveRecord: 0.0ms | Allocations: 6145)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:24:38 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.0ms | Allocations: 339)
+Sent data index.via (5.3ms)
+Completed 500 Internal Server Error in 18ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 6061)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:25:52 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.4ms | Allocations: 339)
+Sent data home/index.via (5.5ms)
+Completed 500 Internal Server Error in 18ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 6084)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:26:04 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 337)
+Sent data index.via (5.2ms)
+Completed 500 Internal Server Error in 18ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 6145)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:26:14 +0200
+Processing by HomeController#index as VIA
+  Rendering home/lol.via.erb
+  Rendered home/lol.via.erb (Duration: 1.0ms | Allocations: 337)
+Sent data lol.via (5.2ms)
+Completed 500 Internal Server Error in 18ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 6147)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:26:27 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 3975)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:26:49 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 3976)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:27:24 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 3975)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:28:22 +0200
+Processing by HomeController#index as VIA
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms | Allocations: 3053)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:29:20 +0200
+Processing by HomeController#index as VIA
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms | Allocations: 3053)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:30:41 +0200
+Processing by HomeController#index as VIA
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms | Allocations: 4247)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:31:13 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.4ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 3943)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:31:48 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.0ms | Allocations: 339)
+Completed 200 OK in 12ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 3943)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:32:02 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.4ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 3943)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 18:35:04 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.5ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 20:54:42 +0200
+Processing by HomeController#index as VIA
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.0ms | Allocations: 4222)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 20:56:13 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 3.0ms | Allocations: 339)
+Sent data index.via (9.7ms)
+Completed 500 Internal Server Error in 71ms (Views: 57.4ms | ActiveRecord: 0.0ms | Allocations: 6088)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 20:56:38 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Sent data index.via (6.4ms)
+Completed 500 Internal Server Error in 20ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 6086)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 20:57:49 +0200
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:01:14 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.2ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 3982)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:03:44 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.3ms | Allocations: 339)
+Completed 200 OK in 17ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 3988)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:04:55 +0200
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:05:06 +0200
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:05:23 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 14ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:06:46 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.2ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:07:01 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.5ms | Allocations: 339)
+Completed 200 OK in 18ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:09:17 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:13:49 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.5ms | Allocations: 339)
+Completed 200 OK in 14ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:14:29 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.5ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:14:56 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home" for 127.0.0.1 at 2022-10-24 21:16:22 +0200
+Processing by HomeController#index as HTML
+Completed 406 Not Acceptable in 8ms (ActiveRecord: 0.0ms | Allocations: 2526)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:18:49 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.7ms | Allocations: 339)
+Completed 200 OK in 14ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:19:45 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 14ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+-------------------------------------
+ViaTest: test_it_has_a_version_number
+-------------------------------------
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+-----------------------------------------------------
+ViaDeliveryTest: test_pdf_request_sends_a_pdf_as_file
+-----------------------------------------------------
+Started GET "/home.via" for 127.0.0.1 at 2022-10-24 21:20:25 +0200
+Processing by HomeController#index as VIA
+  Rendering home/index.via.erb
+  Rendered home/index.via.erb (Duration: 1.1ms | Allocations: 339)
+Completed 200 OK in 13ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 4002)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m

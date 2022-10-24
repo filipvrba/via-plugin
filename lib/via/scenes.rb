@@ -1,0 +1,1 @@
+require "via/scenes/file_script"
